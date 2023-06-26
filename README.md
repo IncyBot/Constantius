@@ -1,4 +1,4 @@
-MILESTONE 1
+MILESTONE 2
 
 Github Link:- https://github.com/IncyBot/Constantius
 
@@ -45,3 +45,8 @@ Milestone 3: Forum Post - for users to interact (1.5 weeks - 22 June)
 
 Milestone 4: Touching up - putting everything together (3 weeks - 13 July)
 
+
+
+UPDATE:
+We have successfully implemented the login functionality on our webpage, allowing users to securely access their accounts. (however, there seems to be a problem which we are unable to rectify at the moment) 
+Additionally, we have integrated an event scheduler into our platform, providing users with the ability to manage and organize their upcoming events effectively. 
